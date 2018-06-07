@@ -1,0 +1,51 @@
+html {
+  font-family: "helvetica neue";
+  font-size: 10px;
+  background: rgb(233, 243, 228);
+}
+
+h1 {
+  font-size: 8rem;
+  text-align: center;
+  color: rgb(77, 27, 64);
+}
+
+h2 {
+  font-size: 4rem;
+  text-align: center;
+  color: rgb(77, 27, 64);
+}
+
+p {
+  font-size: 1.8rem;
+  color: rgb(0, 0, 0);
+}
+
+#subtitle {
+  font-size: 1.8rem;
+  text-align: center;
+}
+
+#img-div {
+  text-align: center;
+  background:  rgb(233, 243, 228);
+  padding: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#img-caption {
+  font-size: 1.6rem;
+}
+
+#image {
+  max-width: 35%;
+  display: block;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  border-color: rgb(77, 27, 64);
+  border-width: .5rem;
+  border-radius: .5%;
+  }
